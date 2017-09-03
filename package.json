@@ -1,0 +1,18 @@
+{
+  "name": "miner-monitor",
+  "version": "1.0.0",
+  "description": "Monitor mining pools powered by MPOS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/AlphaRecon19/miner-monitor",
+  "keywords": [
+  ],
+  "author": "AlphaRecon19",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
+
