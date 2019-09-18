@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/node@^7.0.18":
-  version "7.0.43"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.0.43.tgz#a187e08495a075f200ca946079c914e1a5fe962c"
+"@types/node@^8.0.24":
+  version "8.10.54"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.54.tgz#1c88eb253ac1210f1a5876953fb70f7cc4928402"
 
 ajv@^4.9.1:
   version "4.11.8"
@@ -173,11 +173,11 @@ electron-download@^3.0.1:
     semver "^5.3.0"
     sumchecker "^1.2.0"
 
-electron@~1.6.2:
-  version "1.6.12"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-1.6.12.tgz#860ddf0c659681f60b815f4b98c077fe1b6f867c"
+electron@~1.8.8:
+  version "1.8.8"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-1.8.8.tgz#a90cddb075291f49576993e6f5c8bb4439301cae"
   dependencies:
-    "@types/node" "^7.0.18"
+    "@types/node" "^8.0.24"
     electron-download "^3.0.1"
     extract-zip "^1.0.3"
 
